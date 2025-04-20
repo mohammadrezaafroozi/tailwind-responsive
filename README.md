@@ -1,6 +1,6 @@
 # tailwind-responsive
 
-[demo project](https://mohammadrezaafroozi.github.io/accordion-menu/)
+[demo project](https://mohammadrezaafroozi.github.io/tailwind-responsive/)
 
 ![view](https://github.com/user-attachments/assets/62507546-ffb3-4f5d-9a5b-c2389cd211aa)
 
